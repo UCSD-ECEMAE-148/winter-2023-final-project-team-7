@@ -4,6 +4,7 @@
 **Francisco Downey (BENG), Jonathan Xiong (ECE), Nicholas Preston (MAE), Karthik Srinivasan (MAE)**
 
 # Final Project Overview
+![GPS points](https://user-images.githubusercontent.com/103704890/227807683-064f8b95-401a-4239-9933-644017986b55.png)
 For our final project, we made our car drive from point A to B, given starting and ending GPS points. 
 
 # Assembled Car Design
