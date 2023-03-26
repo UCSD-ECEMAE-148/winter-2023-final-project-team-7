@@ -5,6 +5,7 @@
 
 # Final Project Overview
 ![GPS points](https://user-images.githubusercontent.com/103704890/227807683-064f8b95-401a-4239-9933-644017986b55.png)
+
 For our final project, we made our car drive from point A to B, given starting and ending GPS points. 
 
 # Assembled Car Design
@@ -23,6 +24,14 @@ https://user-images.githubusercontent.com/103704890/227804039-c1aafb7a-8bf6-4f86
 https://user-images.githubusercontent.com/103704890/227804055-d9c3ccce-ef8d-427d-a6b6-e1db12eba440.mp4
 
 # Final Project
+**Plan: Go from point A to B with object detection.**
+<img width="854" alt="PointAtoB" src="https://user-images.githubusercontent.com/103704890/227807817-2b348d11-a5f9-4646-9f11-02e7379b1f43.png">
+
+**Overview**
+Originally, we were going to have LIDAR detect objects in front of the car so the car can see what it needs to go around. However, we did not have enough time to how to use LIDAR, since there was no assignment with it and not enough time at end of quarter. We, however, got quite experienced with the GPS functionality of the car. Using the GPS modules, we were able to direct the car using a path of car-readble GPS coordinates.
+
+**Algorithmic Design of Directing Car from GPS point A to B**
+By the end of the quarter, we wrote a program, AtoB.py, which requires two sets of GPS coordinates as inputs. This program generates a .csv file containing a path of GPS coordinates about .55 meters apart from point A to B. These generated points latitude longitude formatted and relative to the base station antenna. The inputted absolute (planet's) GPS coordinates, thus, needed to be translated to these relative coordinates and converted to rectangular from polar positions. It took some testing to increase the precision of the translation as we did not know the exact conversion constants.
 
 **Demonstration**
 
