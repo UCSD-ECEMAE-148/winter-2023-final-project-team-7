@@ -7,6 +7,7 @@
 https://user-images.githubusercontent.com/103704890/227801950-dfd60ddd-300e-4af8-9878-c62338184269.mp4
 
 #ROS2 Left Lane - 3 Autonomous Laps
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/gpSYe2J3)
