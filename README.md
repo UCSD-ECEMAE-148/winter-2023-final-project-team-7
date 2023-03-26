@@ -7,7 +7,7 @@
 https://user-images.githubusercontent.com/103704890/227801950-dfd60ddd-300e-4af8-9878-c62338184269.mp4
 
 # ROS2 Left Lane - 3 Autonomous Laps
-[![]](https://www.youtube.com/watch?v=zzrTA0UOrnE)
+[![https://www.youtube.com/watch?v=zzrTA0UOrnE]](https://www.youtube.com/watch?v=zzrTA0UOrnE)
 
 
 
