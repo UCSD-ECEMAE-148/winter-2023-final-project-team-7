@@ -1,0 +1,7 @@
+AtoB.py takes accepts two parameters which are the GPS coordinates between the two points of which a .csv which connects the two points through a straight line must be made.
+Takes the difference between the latitudes and longitudes of the the points and uses python client geopy to calculate the distance between the points.
+Xdiff is difference in longitude and Ydiff is difference in latitude.
+
+Examined the donkey_follow_car.csv to determine the distance between 2 .csv points which we obtained as 0.55m.
+Designed the new .csv with the total Xdiff and Ydiff broken down into intermediate points, each with a difference of 0.55m.
+This coordinates of these intermediate points is given in the .csv
