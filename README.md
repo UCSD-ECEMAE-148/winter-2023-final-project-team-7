@@ -7,7 +7,13 @@
 https://user-images.githubusercontent.com/103704890/227801950-dfd60ddd-300e-4af8-9878-c62338184269.mp4
 
 # ROS2 Left Lane - 3 Autonomous Laps
-https://github.com/UCSD-ECEMAE-148/winter-2023-final-project-team-7/blob/b7b42da046d613c1a9d5ba1c4bcb8246daa95a15/ros2-left-lane-speedup-compressed.mp4
+https://user-images.githubusercontent.com/103704890/227804039-c1aafb7a-8bf6-4f86-89cf-1fa21c7ea5d2.mp4
+
+# GPS - 3 Autonomous Laps
+https://user-images.githubusercontent.com/103704890/227804055-d9c3ccce-ef8d-427d-a6b6-e1db12eba440.mp4
+
+
+
 
 
 
