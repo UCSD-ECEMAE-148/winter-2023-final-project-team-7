@@ -10,6 +10,7 @@ For our final project, we made our car drive from point A to B, given starting a
 
 # Assembled Car Design
 ![final assembled car](https://user-images.githubusercontent.com/103704890/227806766-31cf95f4-d0e6-4ada-861e-9daa5a33eac2.jpg)
+LIDAR was set in the front of the car. This was an easy decision for the team since we cared for varying obstacles crossing the points the comprise the path from Point A to Point B. Essentially, it was only important to care for obstacles that come into the front of the moving car.
 
 # DonkeyCar - 3 Autonomous Laps
 https://user-images.githubusercontent.com/103704890/227807530-35ed2ea5-2bc0-4b8b-983d-ca6bed659390.mp4
@@ -22,6 +23,7 @@ https://user-images.githubusercontent.com/103704890/227804039-c1aafb7a-8bf6-4f86
 
 # GPS - 3 Autonomous Laps
 https://user-images.githubusercontent.com/103704890/227804055-d9c3ccce-ef8d-427d-a6b6-e1db12eba440.mp4
+Important to note for the final project, many of the configurations that were found to work in the GPS 3 autonomous laps were used for the final project. The GPS points making up the path were 0.55 meters apart. The nature of the csv points used in the final project matched the one used for this assignment. This allowed the project to move faster as the configurations did work out.
 
 # Final Project
 **Plan: Go from point A to B with object detection.**
